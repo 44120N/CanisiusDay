@@ -181,6 +181,11 @@ body{
     width: 30em;
   }
 }
+@media (max-width: 30em) {
+  .navbar .logo img{
+    width: 20em;
+  }
+}
 /* Animation */
 .reveal{
   position: relative;
