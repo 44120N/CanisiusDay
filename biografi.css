@@ -248,7 +248,7 @@ p {
 .timeline .timeline-container .timeline-body {
   background: #152751;
   border-radius: 3px;
-  padding: 20px 20px 15px;
+  padding: 25px 20px 15px;
   box-shadow: 1px 3px 9px rgba(0, 0, 0, 0.1);
 }
 .timeline .timeline-container .timeline-body:before {
@@ -265,12 +265,6 @@ p {
 .timeline .timeline-container .timeline-body .timeline-title {
   margin-bottom: 1.4rem;
 }
-.timeline .timeline-container .timeline-body .timeline-title .badge .badge2{
-  padding: 4px 8px;
-  border-radius: 3px;
-  font-size: 12px;
-  font-weight: bold;
-}
 .timeline .timeline-container .timeline-body .timeline-subtitle {
   font-weight: 300;
   font-style: italic;
@@ -283,6 +277,7 @@ p {
   border-radius: 10px;
   padding: .9ex;
   width: 100%;
+  font-size: 1.5ex;
 }
 
 .timeline .timeline-container.primary .badge,
